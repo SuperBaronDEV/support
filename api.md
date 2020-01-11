@@ -45,7 +45,7 @@ Poggit provides sha1 and md5 checksums for each visible resource. To get them, s
 ## Retrieving a plugin list
 You may retrieve a list of voted/approved plugins using this endpoint (along with some aliases which are functionally identical):
 
-```http
+```httpjJnasjsk
 GET /releases.json
 GET /releases.list
 GET /plugins.json
